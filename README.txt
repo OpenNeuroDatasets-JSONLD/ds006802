@@ -6,6 +6,6 @@ Experiment length: 1 hour
 
 More information: 
 
-Pre-print: Moerel, D., Grootswagers, T., Quek, G.L., Smit, S., & Varlet, M. (2025). Information alignment between interacting brains=. bioRxiv. doi: https://doi.org/10.1101/2025.01.07.631802
+Pre-print: Moerel, D., Grootswagers, T., Quek, G.L., Smit, S., & Varlet, M. (2025). Information alignment between interacting brains. bioRxiv. doi: https://doi.org/10.1101/2025.01.07.631802
 
 Code: https://doi.org/10.17605/OSF.IO/HE4TU
