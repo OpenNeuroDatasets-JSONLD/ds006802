@@ -16,5 +16,7 @@
         "https://doi.org/10.1101/2025.01.07.631802",
         "https://doi.org/10.17605/OSF.IO/HE4TU"
     ],
-    "HowToAcknowledge": "Moerel, D., Grootswagers T., Quek, G.L., Smit, S., & Varlet, M. Information alignment between interacting brains. bioRxiv. (2025)."
+    "HowToAcknowledge": "Moerel, D., Grootswagers T., Quek, G.L., Smit, S., & Varlet, M. Information alignment between interacting brains. bioRxiv. (2025).",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006802.v1.0.0",
+    "License": "CC0"
 }
