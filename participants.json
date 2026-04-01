@@ -1,6 +1,13 @@
 {
     "participant_id": {
-        "Description": "ID number of the pair of participants"
+        "Description": "ID number of the pair of participants",
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:ParticipantID",
+                "Label": "Participant ID"
+            },
+            "VariableType": "Identifier"
+        }
     },
     "date": {
         "Description": "date the EEG data was obtained"
